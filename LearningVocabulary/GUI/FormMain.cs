@@ -106,7 +106,7 @@ namespace LearningVocabulary
 
         private void btnYes_Click(object sender, EventArgs e)
         {
-            if (IsStartupItem())
+            if (!IsStartupItem())
             {
                 using (RegistryKey key = Registry.CurrentUser.OpenSubKey
                     ("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true))
