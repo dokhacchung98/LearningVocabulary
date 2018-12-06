@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\obj\Debug\LearningVocabulary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\obj\Debug\LearningVocabulary.FormMain.resources
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\obj\Debug\LearningVocabulary.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\obj\Debug\LearningVocabulary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\hp\source\repos\LearningEnglish\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
